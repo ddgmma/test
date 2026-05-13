@@ -32,3 +32,36 @@
 ---
 
 ## 📂 项目结构
+
+```
+src/
+├── hello.py      # Python
+├── hello.js      # JavaScript
+├── hello.ts      # TypeScript
+├── hello.c       # C
+├── hello.cpp     # C++
+├── hello.cs      # C#
+├── hello.go      # Go
+├── Hello.java    # Java
+├── hello.php     # PHP
+├── hello.rb      # Ruby
+├── hello.html    # HTML
+├── hello.md      # Markdown
+└── hello.txt     # Plain Text
+```
+
+## 🚀 运行指南
+
+| 语言 | 运行命令 |
+|------|----------|
+| Python | `python src/hello.py` |
+| JavaScript | `node src/hello.js` |
+| TypeScript | `npx ts-node src/hello.ts` |
+| C | `gcc src/hello.c -o hello && ./hello` |
+| C++ | `g++ src/hello.cpp -o hello && ./hello` |
+| C# | `dotnet run --project src/hello.cs` |
+| Go | `go run src/hello.go` |
+| Java | `javac src/Hello.java && java -cp src Hello` |
+| PHP | `php src/hello.php` |
+| Ruby | `ruby src/hello.rb` |
+| HTML | 用浏览器打开 `src/hello.html` |
