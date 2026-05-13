@@ -1,9 +1,8 @@
 # 🧪 测试仓库 / Test Repository
 
 **一个多语言 Hello World 测试项目，欢迎上传任意文件！**
-**A multilingual Hello World test project, welcome to upload any file!**
 
-</div>
+**A multilingual Hello World test project, welcome to upload any file!**
 
 ---
 
@@ -23,4 +22,3 @@
 ---
 
 ## 📂 项目结构
-
