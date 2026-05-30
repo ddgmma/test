@@ -34,20 +34,26 @@
 ## 📂 项目结构
 
 ```
-src/
-├── hello.py      # Python
-├── hello.js      # JavaScript
-├── hello.ts      # TypeScript
-├── hello.c       # C
-├── hello.cpp     # C++
-├── hello.cs      # C#
-├── hello.go      # Go
-├── Hello.java    # Java
-├── hello.php     # PHP
-├── hello.rb      # Ruby
-├── hello.html    # HTML
-├── hello.md      # Markdown
-└── hello.txt     # Plain Text
+test/
+├── .gitignore           # git 忽略规则
+├── LICENSE              # MIT 开源许可
+├── README.MD
+└── src/
+    └── helloworld/      # 🎯 多语言 Hello World 合集
+        ├── 编程语言市场份额图表.md
+        ├── hello.c       # C
+        ├── hello.cpp     # C++
+        ├── hello.cs      # C#
+        ├── hello.go      # Go
+        ├── hello.html    # HTML
+        ├── Hello.java    # Java
+        ├── hello.js      # JavaScript
+        ├── hello.md      # Markdown
+        ├── hello.php     # PHP
+        ├── hello.py      # Python
+        ├── hello.rb      # Ruby
+        ├── hello.ts      # TypeScript
+        └── hello.txt     # 纯文本
 ```
 
 ## 🚀 运行指南
