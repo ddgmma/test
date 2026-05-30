@@ -52,16 +52,16 @@ src/
 
 ## 🚀 运行指南
 
-| 语言 | 运行命令 |
-|------|----------|
-| Python | `python src/hello.py` |
-| JavaScript | `node src/hello.js` |
-| TypeScript | `npx ts-node src/hello.ts` |
-| C | `gcc src/hello.c -o hello && ./hello` |
-| C++ | `g++ src/hello.cpp -o hello && ./hello` |
-| C# | `dotnet run --project src/hello.cs` |
-| Go | `go run src/hello.go` |
-| Java | `javac src/Hello.java && java -cp src Hello` |
-| PHP | `php src/hello.php` |
-| Ruby | `ruby src/hello.rb` |
-| HTML | 用浏览器打开 `src/hello.html` |
+| 语言       | 运行命令                                     |
+| ---------- | -------------------------------------------- |
+| Python     | `python src/hello.py`                        |
+| JavaScript | `node src/hello.js`                          |
+| TypeScript | `npx ts-node src/hello.ts`                   |
+| C          | `gcc src/hello.c -o hello && ./hello`        |
+| C++        | `g++ src/hello.cpp -o hello && ./hello`      |
+| C#         | `dotnet run --project src/hello.cs`          |
+| Go         | `go run src/hello.go`                        |
+| Java       | `javac src/Hello.java && java -cp src Hello` |
+| PHP        | `php src/hello.php`                          |
+| Ruby       | `ruby src/hello.rb`                          |
+| HTML       | 用浏览器打开 `src/hello.html`                |
