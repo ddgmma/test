@@ -6,7 +6,7 @@
 
 ---
 
-## 🌍 多语言说明
+## 🌍 多语言说明 / Multilingual Instructions
 
 > 🇨🇳 这是一个测试仓库，您可以上传任何文件！
 > 
@@ -31,16 +31,16 @@
 
 ---
 
-## 📂 项目结构
+## 📂 项目结构 / Project Structure
 
 ```
 test/
-├── .gitignore           # git 忽略规则
-├── LICENSE              # MIT 开源许可
+├── .gitignore           # git 忽略规则 / git ignore rules
+├── LICENSE              # MIT 开源许可 / MIT open source license
 ├── README.MD
 └── src/
-    └── helloworld/      # 🎯 多语言 Hello World 合集
-        ├── 编程语言市场份额图表.md
+    └── helloworld/      # 🎯 多语言 Hello World 合集 / Multilingual Hello World collection
+        ├── 编程语言市场份额图表.md  # Programming Language Market Share Chart
         ├── hello.c       # C
         ├── hello.cpp     # C++
         ├── hello.cs      # C#
@@ -53,21 +53,21 @@ test/
         ├── hello.py      # Python
         ├── hello.rb      # Ruby
         ├── hello.ts      # TypeScript
-        └── hello.txt     # 纯文本
+        └── hello.txt     # 纯文本 / Plain text
 ```
 
-## 🚀 运行指南
+## 🚀 运行指南 / Run Guide
 
-| 语言       | 运行命令                                     |
-| ---------- | -------------------------------------------- |
-| Python     | `python src/hello.py`                        |
-| JavaScript | `node src/hello.js`                          |
-| TypeScript | `npx ts-node src/hello.ts`                   |
-| C          | `gcc src/hello.c -o hello && ./hello`        |
-| C++        | `g++ src/hello.cpp -o hello && ./hello`      |
-| C#         | `dotnet run --project src/hello.cs`          |
-| Go         | `go run src/hello.go`                        |
-| Java       | `javac src/Hello.java && java -cp src Hello` |
-| PHP        | `php src/hello.php`                          |
-| Ruby       | `ruby src/hello.rb`                          |
-| HTML       | 用浏览器打开 `src/hello.html`                |
+| 语言 / Language     | 运行命令 / Run Command                                 |
+| ------------------- | ------------------------------------------------------ |
+| Python              | `python src/hello.py`                                   |
+| JavaScript          | `node src/hello.js`                                     |
+| TypeScript          | `npx ts-node src/hello.ts`                              |
+| C                   | `gcc src/hello.c -o hello && ./hello`                   |
+| C++                 | `g++ src/hello.cpp -o hello && ./hello`                 |
+| C#                  | `dotnet run --project src/hello.cs`                     |
+| Go                  | `go run src/hello.go`                                   |
+| Java                | `javac src/Hello.java && java -cp src Hello`            |
+| PHP                 | `php src/hello.php`                                     |
+| Ruby                | `ruby src/hello.rb`                                     |
+| HTML                | -                                                       |
